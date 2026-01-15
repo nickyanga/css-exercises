@@ -1,1 +1,13 @@
 /* Add CSS Styling */
+.Click,.Click_two{
+font-size: 28px;
+font-family: Helvetica,'Times New Roman',sans-serif;
+}
+
+.Click{
+    background-color: black;
+    color: white;
+}
+.Click_two{
+background-color: yellow;
+}
