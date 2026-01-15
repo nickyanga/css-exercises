@@ -1,1 +1,5 @@
 /* Add CSS Styling */
+.odd{
+    background-color: lightsalmon;
+    font-family: verdana,Dejavu Sans,sans-serif;
+}
