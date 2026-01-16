@@ -1,1 +1,16 @@
-/* Add CSS Styling */
+/* Add CSS Styling using type selector*/
+div p{
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
+
+/* Add CSS Styling using class selector */
+
+.container .text{
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
